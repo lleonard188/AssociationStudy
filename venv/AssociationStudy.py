@@ -12,7 +12,7 @@ for x in healthyParticipants
 for x in unhealthyParticipants
     #Pair each variant and microbe
 
-#Find which combinations are in unhealthhy but not healthy
+#Find which combinations are in unhealthy but not healthy
 
 
 
