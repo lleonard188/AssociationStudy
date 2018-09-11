@@ -3,7 +3,6 @@ class Participant:
     variants = None
     microbes = None
 
-
 participants = ["Participant1", "Participant2"]
 
 for x in healthyParticipants
